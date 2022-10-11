@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 - 😄 Call me: Abissa (He/Him)
 
 <div style="display: flex; flex-direction: row;">
-    <div>
-        <a href="https://github.com/AbdourahamaneIssakaSani"><img alt="AbdourahamaneIssakaSani's Github Stats"
+    <div style="width: 35%;">
+        <a href="https//github.com/AbdourahamaneIssakaSani"><img alt="AbdourahamaneIssakaSani's Github Stats"
                 src="https://github-readme-stats.vercel.app/api?username=AbdourahamaneIssakaSani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </div>
-    <div>
+    <div style="width: 40%;">
         <a href="http://www.github.com/AbdourahamaneIssakaSani"><img
                 src="https://github-readme-streak-stats.herokuapp.com/?user=AbdourahamaneIssakaSani&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </div>
-    <div>
+    <div style="width: 25%;">
         <a href="https://github.com/AbdourahamaneIssakaSani"><img alt="AbdourahamaneIssakaSani's Top Languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdourahamaneIssakaSani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </div>
