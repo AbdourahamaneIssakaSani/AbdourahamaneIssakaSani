@@ -35,7 +35,9 @@ Here are some ideas to get you started:
         </td>
     </tr>
     <tr>
-        ![GitHub Activity
-        Graph](https://activity-graph.herokuapp.com/graph?username=AbdourahamaneIssakaSani&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+         <td>
+            ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdourahamaneIssakaSani&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+        </td>
     </tr>
 </table>
