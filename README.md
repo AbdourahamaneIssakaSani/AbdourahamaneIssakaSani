@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👨🏾‍🎓 I’m Abdourahamane Issaka Sani 
 - 😄 Call me **Abissa** (He/Him)
-- 🌱 I’m currently learning Automation, Cloud Engineering and Blockchain.
+- 🌱 I’m currently learning how to build scalable APIs, Cloud Engineering and Blockchain.
 
 <table>
     <tr>
