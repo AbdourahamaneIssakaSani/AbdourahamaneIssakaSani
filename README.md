@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 - 👨🏾‍🎓 I’m Abdourahamane Issaka Sani 
 - 😄 Call me **Abissa** (He/Him)
-- 🔭 I’m currently working on Healthcare and Education
-- 🌱 I’m currently learning Automation, Cloud Engineering and AR/VR.
+- 🌱 I’m currently learning Automation, Cloud Engineering and Blockchain.
 
 <table>
     <tr>
